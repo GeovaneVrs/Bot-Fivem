@@ -1,0 +1,10 @@
+{
+  "embeds_color": {
+    "embed_dash": "#f32c2c",
+    "embed_primary": "#2f3136",
+    "embed_invisible": "#2f3136",
+    "embed_success": "#72be71",
+    "embed_error": "#df6f6f"
+  },
+  "scriptToken": "TESTE"
+}
